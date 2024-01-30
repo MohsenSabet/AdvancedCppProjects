@@ -31,7 +31,7 @@ The "Advanced C++ Assembly Line Simulator" is an intricate application that mimi
 
 Each of these components plays a vital role in simulating an efficient and functional assembly line, showcasing a deep understanding of both the conceptual and practical aspects of object-oriented programming in C++.
 
-#### [Milestone 1: Utilities and Station Classes](https://github.com/MohsenSabet/OOP345-Works/tree/main/Project/MS1)
+#### [Assembly Line Simulator](https://github.com/MohsenSabet/AdvancedCppProjects/tree/main/Project)
   
 
 ## Contact
