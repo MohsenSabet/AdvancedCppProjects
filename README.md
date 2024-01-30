@@ -7,8 +7,8 @@ Welcome to the "Advanced C++ Assembly Line Simulator", a detailed and complex pr
 ---
 ### Table of Contents
 1. [Introduction](#introduction)
-2. [Project Overview](#projectOverview)
-3. [Project Components](#rojectComponents)
+2. [Project Overview](#project Overview)
+3. [Project Components](#project Components)
 4. [Contact](#contact)
 5. [Disclaimer](#Disclaimer)
 
