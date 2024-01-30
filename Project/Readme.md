@@ -28,7 +28,7 @@ g++ -o AssemblyLineSimulator Utilities.cpp Station.cpp CustomerOrder.cpp Worksta
 
 After compiling the project, run the executable along with the necessary command line arguments as specified in `ms3_output.txt`.
 ```
-./AssemblyLineSimulator [arg1] [arg2] [arg3] ...
+./AssemblyLineSimulator Stations1.txt Stations2.txt CustomerOrders.txt AssemblyLine.txt
 ```
 
 For specific command line arguments, refer to `ms3_output.txt` in the repository, which contains the necessary commands to start the application along with examples of expected output.
